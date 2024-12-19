@@ -1,4 +1,4 @@
-#Silly Calculator
+# Silly Calculator
 
 This is a simple project trying to implement John Napier's location arithmetic from his 1617 treatise [Rabdology](https://en.wikipedia.org/wiki/Rabdology).
 
